@@ -89,7 +89,7 @@ This will generate production-ready files in the `/dist` directory.
 
 ## Guidelines and Documentation
 
-- **[Project Overview Document](docs/Project Overview and Structure.docx):** Comprehensive guide to the project’s structure, tools, and workflows.
+- **[Project Overview Document](docs/Project%20Overview%20and%20Structure.docx):** Comprehensive guide to the project’s structure, tools, and workflows.
 - **[Guidelines Documents](docs/guidelines):** Includes detailed documents for task creation, testing, and code contributions.
 
 ---
